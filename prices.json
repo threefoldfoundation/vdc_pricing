@@ -1,0 +1,18 @@
+{
+   "plans":{
+      "silver":364,
+      "gold":1090,
+      "diamond":2181,
+      "platinum":10909
+   },
+   "nodes":{
+      "small":181,
+      "mid":363,
+      "big":727,
+      "dedicated":5454
+   },
+   "services":{
+      "ip":181,
+      "storage":290
+   }
+}

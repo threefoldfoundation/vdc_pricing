@@ -1,0 +1,32 @@
+{
+    "silver": {
+        "k8s": {
+            "no_nodes": 1,
+            "size": "small",
+            "controller_size": "small",
+            "dedicated": false
+        },
+        "s3": {"size": "small"},
+        "duration": 30
+    },
+    "gold": {
+        "k8s": {
+            "no_nodes": 1,
+            "size": "medium",
+            "controller_size": "medium",
+            "dedicated": false
+        },
+        "s3": {"size": "medium"},
+        "duration": 30
+    },
+    "platinum": {
+        "k8s": {
+            "no_nodes": 1,
+            "size": "big",
+            "controller_size": "big",
+            "dedicated": false
+        },
+        "s3": {"size": "big"},
+        "duration": 30
+    }
+}

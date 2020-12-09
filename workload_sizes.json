@@ -22,15 +22,15 @@
     "zdb": {
         "small": {
             "value": 1,
-            "sru": 3072
+            "sru": 100
         },
         "medium": {
             "value": 2,
-            "sru": 10240
+            "sru": 3072
         },
         "big": {
             "value": 3,
-            "sru": 20480
+            "sru": 10240
         }
     }
 }

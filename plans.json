@@ -32,7 +32,7 @@
     "platinum": {
         "k8s": {
             "no_nodes": 2,
-            "size": "large",
+            "size": "big",
             "controller_size": "small",
             "dedicated": true
         },

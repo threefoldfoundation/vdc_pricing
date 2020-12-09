@@ -8,11 +8,9 @@
    "nodes":{
       "small":181,
       "mid":363,
-      "big":727,
-      "dedicated":5454
+      "big":727
    },
    "services":{
-      "ip":181,
-      "storage":290
+      "ip":181
    }
 }

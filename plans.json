@@ -3,8 +3,7 @@
         "k8s": {
             "no_nodes": 1,
             "size": "small",
-            "controller_size": "small",
-            "dedicated": false
+            "controller_size": "small"
         },
         "s3": {"size": "small"},
         "duration": 30
@@ -13,8 +12,7 @@
         "k8s": {
             "no_nodes": 1,
             "size": "small",
-            "controller_size": "small",
-            "dedicated": false
+            "controller_size": "small"
         },
         "s3": {"size": "medium"},
         "duration": 30
@@ -23,8 +21,7 @@
         "k8s": {
             "no_nodes": 2,
             "size": "medium",
-            "controller_size": "small",
-            "dedicated": false
+            "controller_size": "small"
         },
         "s3": {"size": "big"},
         "duration": 30
@@ -33,8 +30,7 @@
         "k8s": {
             "no_nodes": 2,
             "size": "big",
-            "controller_size": "small",
-            "dedicated": true
+            "controller_size": "small"
         },
         "s3": {"size": "big"},
         "duration": 30

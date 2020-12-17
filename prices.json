@@ -1,9 +1,9 @@
 {
    "plans":{
-      "silver":364,
-      "gold":1090,
-      "diamond":2181,
-      "platinum":10909
+      "silver":700,
+      "gold":1500,
+      "diamond":3000,
+      "platinum":15909
    },
    "nodes":{
       "small":181,

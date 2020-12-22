@@ -1,9 +1,9 @@
 {
     "kubernetes": {
         "small": {
-            "value": 15,
+            "value": 18,
             "cru": 1,
-            "mru": 2,
+            "mru": 1,
             "sru": 25
         },
         "medium": {

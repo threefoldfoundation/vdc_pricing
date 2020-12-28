@@ -17,7 +17,7 @@
         "s3": {"size": "medium"},
         "duration": 30
     },
-    "diamond": {
+    "platinum": {
         "k8s": {
             "no_nodes": 2,
             "size": "medium",
@@ -26,7 +26,7 @@
         "s3": {"size": "big"},
         "duration": 30
     },
-    "platinum": {
+    "diamond": {
         "k8s": {
             "no_nodes": 2,
             "size": "big",

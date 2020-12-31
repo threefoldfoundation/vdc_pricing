@@ -1,16 +1,16 @@
 {
    "plans":{
-      "silver":700,
-      "gold":1500,
-      "platinum":3000,
-      "diamond":15909
+      "silver":200,
+      "gold":500,
+      "platinum":1400,
+      "diamond": 1700
    },
    "nodes":{
-      "small":181,
-      "medium":363,
-      "big":727
+      "small":50,
+      "medium":150,
+      "big": 250
    },
    "services":{
-      "ip":181
+      "ip":90
    }
 }

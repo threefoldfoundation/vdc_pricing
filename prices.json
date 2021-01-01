@@ -6,9 +6,9 @@
       "diamond": 2000
    },
    "nodes":{
-      "small":80,
-      "medium":150,
-      "big": 280
+      "small":240,
+      "medium":240,
+      "big": 480
    },
    "services":{
       "ip":90

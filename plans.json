@@ -3,36 +3,37 @@
         "k8s": {
             "no_nodes": 1,
             "size": "small",
-            "controller_size": "small"
+            "controller_size": "micro"
         },
-        "s3": {"size": "small"},
+        "s3": {"size": "small", "upto":"100GB"},
+        
         "duration": 30
     },
     "gold": {
         "k8s": {
             "no_nodes": 1,
             "size": "small",
-            "controller_size": "small"
+            "controller_size": "micro"
         },
-        "s3": {"size": "small"},
+        "s3": {"size": "small", "upto":"2TB"},
         "duration": 30
     },
     "platinum": {
         "k8s": {
             "no_nodes": 2,
             "size": "medium",
-            "controller_size": "small"
+            "controller_size": "micro"
         },
-        "s3": {"size": "small"},
+        "s3": {"size": "small", "upto":"10TB"},
         "duration": 30
     },
     "diamond": {
         "k8s": {
-            "no_nodes": 2,
+            "no_nodes": 4,
             "size": "big",
-            "controller_size": "small"
+            "controller_size": "micro"
         },
-        "s3": {"size": "small"},
+        "s3": {"size": "small", "upto":"10TB"},
         "duration": 30
     }
 }

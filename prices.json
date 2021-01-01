@@ -6,8 +6,8 @@
       "diamond": 2000
    },
    "nodes":{
-      "micro":240,
-      "small":240,
+      "micro":32,
+      "small":115,
       "medium":240,
       "big": 480
    },

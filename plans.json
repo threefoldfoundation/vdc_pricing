@@ -15,7 +15,7 @@
             "size": "small",
             "controller_size": "micro"
         },
-        "s3": {"size": "small", "upto":"2TB"},
+        "s3": {"size": "medium", "upto":"2TB"},
         "duration": 30
     },
     "platinum": {
@@ -24,7 +24,7 @@
             "size": "medium",
             "controller_size": "micro"
         },
-        "s3": {"size": "small", "upto":"10TB"},
+        "s3": {"size": "big", "upto":"10TB"},
         "duration": 30
     },
     "diamond": {
@@ -33,7 +33,7 @@
             "size": "big",
             "controller_size": "micro"
         },
-        "s3": {"size": "small", "upto":"10TB"},
+        "s3": {"size": "big", "upto":"10TB"},
         "duration": 30
     }
 }
